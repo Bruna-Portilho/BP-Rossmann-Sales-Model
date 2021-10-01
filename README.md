@@ -80,3 +80,8 @@ The method used for the project was CRISP-DM, apply as the steps below:
 ![image](https://user-images.githubusercontent.com/85244180/135642546-f625a607-a1c8-45bd-b4f5-b2432fff6915.png)
 
 
+# Machine Learnig Performance after Hyperparemeter Fine Tuning
+
+![image](https://user-images.githubusercontent.com/85244180/135654921-1fa910a1-a495-4036-bd7b-54d2569461d3.png)
+
+Although the Ranndom Forest Regressor Model presented better performance, this model usually requires a large amount of space on the server in deploy step, generating a significant cost increase for the company. Therefore, it was chossen the XGBoost model, which after the hyper parameter fining tuning presented similar performance and requires less space on the server, generating a lower cost for the company.
