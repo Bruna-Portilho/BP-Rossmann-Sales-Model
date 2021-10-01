@@ -88,7 +88,7 @@ Although the Ranndom Forest Regressor Model presented better performance, this m
 
 # Model performance vs Business values
 
-It was possible to calculate besides de model predction, also de sales values for the worst and the best scenario.
+It was possible to calculate in addition to sales predction, also the prediction for the worst and the best scenario.
 
 **Model with XGBoost Regression**
 
@@ -103,3 +103,28 @@ It was possible to calculate besides de model predction, also de sales values fo
 - To acess the predictions on Telegram, click in the below:
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]( https://t.me/rossmann_brunasdp_bot)
+
+# How to get the prediction
+- Send the store number (one each time) and get the sales prediction for the next six weeks.
+- If the store number does not exist, it will get as an answer the message: "Store Not Available".
+
+![image](https://user-images.githubusercontent.com/85244180/135685816-8bb3bacf-3795-4893-966a-c2e75d8e0846.png)
+
+# Conclusion
+
+# Next Steps
+
+# Technologies
+- Jupyter notebook
+- Python
+
+# Deploy into production
+- Back end: Heroku
+- Front end web: Telegram
+- Database: Kaggle
+
+# Author
+Bruna Santiago Dias Portilho
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/bruna-portilho-b48309124)
+
