@@ -67,3 +67,16 @@ The method used for the project was CRISP-DM, apply as the steps below:
 
 ![image](https://user-images.githubusercontent.com/85244180/135639149-69db891d-ba66-465f-b732-54f58909d312.png)
 
+# Tested Machine Learning Models 
+
+- Average Model
+- Linear Regression Model
+-  Linear Regression Regularized Model (Lasso)
+-  Random Forest Regressor
+-  XGBoost Regressor
+
+# Machine Learning Models Performance
+
+![image](https://user-images.githubusercontent.com/85244180/135642546-f625a607-a1c8-45bd-b4f5-b2432fff6915.png)
+
+
