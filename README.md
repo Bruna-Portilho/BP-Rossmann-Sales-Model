@@ -102,4 +102,4 @@ It was possible to calculate besides de model predction, also de sales values fo
 # Telegram
 - To acess the predictions on Telegram, click in the below:
 
-
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]( https://t.me/rossmann_brunasdp_bot)
