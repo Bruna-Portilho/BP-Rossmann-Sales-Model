@@ -84,4 +84,22 @@ The method used for the project was CRISP-DM, apply as the steps below:
 
 ![image](https://user-images.githubusercontent.com/85244180/135654921-1fa910a1-a495-4036-bd7b-54d2569461d3.png)
 
-Although the Ranndom Forest Regressor Model presented better performance, this model usually requires a large amount of space on the server in deploy step, generating a significant cost increase for the company. Therefore, it was chossen the XGBoost model, which after the hyper parameter fining tuning presented similar performance and requires less space on the server, generating a lower cost for the company.
+Although the Ranndom Forest Regressor Model presented better performance, this model usually requires a large amount of space on the server in deploy step, generating a significant cost increase for the company. Therefore, it was choosen the XGBoost model, which after the hyperparameter fine tuning presented similar performance and requires less space on the server, generating a lower cost for the company.
+
+# Model performance vs Business values
+
+It was possible to calculate besides de model predction, also de sales values for the worst e the best scenario.
+
+**Model with XGBoost Regression**
+
+![image](https://user-images.githubusercontent.com/85244180/135664880-e12bf17c-49ae-4eed-a285-32d51e0508d8.png)
+
+# How to acesse the prediction
+## Pre-requirement
+
+- Sign up Telegram and create an account
+
+# Telegram
+- To acess the predictions on Telegram, click in the below:
+
+
