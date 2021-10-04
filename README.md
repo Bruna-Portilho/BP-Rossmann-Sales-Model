@@ -1,5 +1,6 @@
 # BP-Rossmann-Sales-Model
-This is a sales prediction machine learning project
+This is a sales prediction machine learning project for Rossmann Drug Stores
+
 ![sales-prediction-social-media](https://user-images.githubusercontent.com/85244180/135611366-dbfb5c66-91fc-4922-ba8e-836b1703b284.png)
 # Business problem
 The CFO of Rossmann Drug Stores requested a sales predction for each store for the next six weeks in order to define a budget for stores renovation. The current prediction was not satisfactory as there were several inconsistencies. In this context, I developed a machine learning model in order to provide more accurately forecast store sales.
@@ -84,11 +85,11 @@ The method used for the project was CRISP-DM, apply as the steps below:
 
 ![image](https://user-images.githubusercontent.com/85244180/135654921-1fa910a1-a495-4036-bd7b-54d2569461d3.png)
 
-Although the Ranndom Forest Regressor Model presented better performance, this model usually requires a large amount of space on the server in deploy step, generating a significant cost increase for the company. Therefore, it was choosen the XGBoost Regressor Model, which after the hyperparameter fine tuning presented similar performance and requires less space on the server, generating a lower cost for the company.
+Although the Random Forest Regressor Model presented better performance, this model usually requires a large amount of space on the server in deploy step, generating a significant cost increase for the company. Therefore, it was choosen the XGBoost Regressor Model, which after the hyperparameter fine tuning presented similar performance and requires less space on the server, generating a lower cost for the company.
 
 # Model performance vs Business values
 
-It was possible to calculate in addition to sales predction, also the prediction for the worst and the best scenario.
+In addition to overall sales prediction, it was also calculated the sales prediction for the worst and the best scenario.
 
 **Model with XGBoost Regression**
 
@@ -112,7 +113,7 @@ It was possible to calculate in addition to sales predction, also the prediction
 
 # Conclusion
 
-# Next Steps
+Considering the first CRISP_DS cycle, the final model presented a usefull performance, considering the MAPE (Mean Absolute Percentage Error) of 0.11. However, for some stores, higher MAPE values were observed, such as 0.37 and 0.52, but this is a point that could be improved in the next CRISP cycle.
 
 # Technologies
 - Jupyter notebook
