@@ -7,7 +7,7 @@ The CFO of Rossmann Drug Stores requested a sales predction for each store for t
 # Business Assumptions
 - The days when stores were closed were removed from the analysis.
 - Only stores with sales values bigger than 0 were considered.
-- For stores which did not have Competition Distance information, it was considered that the distance should be two times bigger than the bigger distance from the nearest competitor.
+- For stores which did not have Competition Distance information, it was considered that the distance should be the longest distance observed in the data set.
 # Attribute List
 - Id - an Id that represents a (Store, Date) duple within the test set
 - Store - a unique Id for each store
