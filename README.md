@@ -52,19 +52,19 @@ The method used for the project was CRISP-DS, apply as the steps below:
 # Top Three Data Insigths
 **H1**: Stores with larger assortments should sell more.
 
-**FALSA**: Stores with a larger assortment sell LESS.
+**FALSE**: Stores with a larger assortment sell LESS.
 
 ![image](https://user-images.githubusercontent.com/85244180/135637281-5f0d6160-e245-49e8-8f3d-f1dbccba12ea.png)
 
 **H9**: Stores should sell more over the years.
 
-**FALSA**: Stores sell less over the years.
+**FALSE**: Stores sell less over the years.
 
 ![image](https://user-images.githubusercontent.com/85244180/135638046-9dd85666-fa4e-4b6f-8caa-7549a5903de3.png)
 
  **H11**: Stores should sell more after the 10th of each month.
  
-**VERDADEIRA**: Stores sell more after the 10th of each month.
+**TRUE**: Stores sell more after the 10th of each month.
 
 ![image](https://user-images.githubusercontent.com/85244180/135639149-69db891d-ba66-465f-b732-54f58909d312.png)
 
