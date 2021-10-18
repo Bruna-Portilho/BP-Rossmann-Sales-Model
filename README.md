@@ -95,7 +95,7 @@ In addition to overall sales prediction, it was also calculated the sales predic
 
 ![image](https://user-images.githubusercontent.com/85244180/135664880-e12bf17c-49ae-4eed-a285-32d51e0508d8.png)
 
-# How to acesse the prediction
+# How to access the prediction
 ## Pre-requirement
 
 - Sign up Telegram and create an account
