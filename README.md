@@ -50,21 +50,21 @@ The method used for the project was CRISP-DS, apply as the steps below:
 **Step 11**. **Telegram Bot**: The goal of this step is to create a bot on the telegram app, that make possible to consult the forecast at any time.
 
 # Top Three Data Insigths
-**H1**: Lojas com maior sortimentos deveriam vender mais
+**H1**: Stores with larger assortments should sell more.
 
-**FALSA**: Lojas com maior sortimento vendem MENOS.
+**FALSA**: Stores with a larger assortment sell LESS.
 
 ![image](https://user-images.githubusercontent.com/85244180/135637281-5f0d6160-e245-49e8-8f3d-f1dbccba12ea.png)
 
-**H9**: Lojas deveriam vender mais ao longo dos anos.
+**H9**: Stores should sell more over the years.
 
-**FALSA**: Lojas vendem menos ao longo dos anos.
+**FALSA**: Stores sell less over the years.
 
 ![image](https://user-images.githubusercontent.com/85244180/135638046-9dd85666-fa4e-4b6f-8caa-7549a5903de3.png)
 
- **H11**: Lojas deveriam vender mais depois do dia 10 de cada mês.
+ **H11**: Stores should sell more after the 10th of each month.
  
-**VERDADEIRA**: Lojas vendem mais depois do dia 10 de cada mes.
+**VERDADEIRA**: Stores sell more after the 10th of each month.
 
 ![image](https://user-images.githubusercontent.com/85244180/135639149-69db891d-ba66-465f-b732-54f58909d312.png)
 
