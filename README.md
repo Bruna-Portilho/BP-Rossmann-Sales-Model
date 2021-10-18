@@ -25,7 +25,7 @@ The CFO of Rossmann Drug Stores requested a sales predction for each store for t
 - Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
 - PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 # Solution Strategy
-The method used for the project was CRISP-DM, apply as the steps below:
+The method used for the project was CRISP-DS, apply as the steps below:
 
 **Step 01**. **Data Description:** The goal is to use statistical metrics to identify outliers in the business scope and also analyze basic statistical metrics such as: mean, median, maximum, minimum, range, skew, curtosis and standard deviation.
 
