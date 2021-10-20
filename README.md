@@ -103,7 +103,7 @@ In addition to overall sales prediction, it was also calculated the sales predic
 # Telegram
 - To acess the predictions on Telegram, click in the below:
 
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]( https://t.me/rossmann_brunasdp_bot)
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]( https://t.me/bp_rossmann_bot)
 
 # How to get the prediction
 - Send the store number (one each time) and get the sales prediction for the next six weeks.
